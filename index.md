@@ -4,5 +4,5 @@
 * Built an interface for 'client's using streamlit
 * [Recommender v.3000](https://erkamersaherging-stream-lit-recommender-sapp-7r9nbc.streamlitapp.com/)
 
-![](https://github.com/erkamersaherging/ToyPort/blob/main/images/output.png)
+![](/images/output.png)
 
